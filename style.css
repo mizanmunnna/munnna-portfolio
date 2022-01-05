@@ -1,0 +1,42 @@
+body{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    margin: 0px;
+}
+
+h1{
+font-size:45px;
+}
+span{
+    color:orange;
+}
+
+section{
+    display: flex;
+}
+
+.first-width{
+    width: 50%;
+    padding: 10px;;
+ }
+
+ .first-width img{
+     width: 85%;
+ }
+ .button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(tomato,rgb(236, 156, 5));
+    padding:10px 40px;
+    border-radius: 5px;
+    font-weight:400px;
+    font-size: 20px;
+ }
+
+ .top-banner{
+     background-image: url(images/top-banner.png);
+     background-repeat: no-repeat;
+ }
+
+ .dressing{
+     text-align: justify;
+ }
